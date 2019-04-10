@@ -1,15 +1,15 @@
 ## NOTE: https://www-demo5.allizom.org/firefox/67.0/whatsnew/
-## URL: https://www-demo5.allizom.org/%LOCALE%/firefox/66.0/whatsnew/
+## URL: https://www-demo5.allizom.org/%LOCALE%/firefox/67.0/whatsnew/
 
 
 # HTML page title
-;Get a Firefox Account – Keep your data private, safe and synced
-Get a Firefox Account – Keep your data private, safe and synced
+;Get a Firefox account – Keep your data private, safe and synced
+Get a Firefox account – Keep your data private, safe and synced
 
 
 # HTML page description
-;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One log-in – Power and privacy everywhere.
-Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox Account now – One log-in – Power and privacy everywhere.
+;Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox account now – One login – Power and privacy everywhere.
+Securely sync your passwords, bookmarks and tabs across all your devices. Get a Firefox account now – One login – Power and privacy everywhere.
 
 
 ;Congrats! You’re using the latest version of Firefox.
@@ -31,6 +31,7 @@ Sync Now
 Get the latest news from Mozilla and Firefox right in your inbox.
 
 
+# "More power to you" is an American English idiom wishing someone success in their endeavors, and here is also a play on words saying Firefox gives users more power and control over their web experience. A more literal alternative would be "You have more power with every update"
 ;More power to you with every update
 More power to you with every update
 
@@ -38,7 +39,7 @@ More power to you with every update
 ;New to your browser
 New to your browser
 
-
+# "upped" means increased or improved
 ;Now you have the power to block video ads that autoplay when you open articles and links. Plus, Firefox has upped your protection against ad trackers.
 Now you have the power to block video ads that autoplay when you open articles and links. Plus, Firefox has upped your protection against ad trackers.
 
@@ -47,6 +48,7 @@ Now you have the power to block video ads that autoplay when you open articles a
 Now with your Firefox account
 
 
+# "Lockbox" is a proper name; it should be capitalized and should not be translated.
 ;Take your passwords everywhere with Lockbox
 Take your passwords everywhere with Lockbox
 
@@ -73,6 +75,7 @@ Read the articles you care about anytime, anywhere (even offline). And try Pocke
 Get the Pocket App
 
 
+# "Monitor" is a proper name; it should be capitalized and should not be translated.
 ;Keep an eye on data breaches with Monitor
 Keep an eye on data breaches with Monitor
 
@@ -86,6 +89,7 @@ Find out if your information has been compromised by a data breach – and now y
 Check Out Monitor
 
 
+# "Send" is a proper name; it should be capitalized and should not be translated.
 ;Share large files securely with Send
 Share large files securely with Send
 
